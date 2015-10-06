@@ -7,3 +7,7 @@ iSkin - Haptic interface for the sense of touch
 - Stage 1.1, Arduino-Python interface
 - Stage 2, Spring decoy algorithm
 - Stage 2.1, Keyboard-piano decoy algorithm
+- 
+
+## TO DO:
+- Mouse pointer movement based on color tag isn't smooth, use Kalman filter
