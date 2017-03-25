@@ -23,6 +23,6 @@ iSkin - Haptic interface for the sense of touch
 # Preview
 ![alt tag](https://github.com/RahulDamineni/iSkin/blob/master/img/a.jpg) 
 ![alt tag](https://github.com/RahulDamineni/iSkin/blob/master/img/b.jpg)
-![alt tag](https://github.com/RahulDamineni/iSkin/blob/master/img/c.jpg)
+![alt tag](https://github.com/RahulDamineni/iSkin/blob/master/img/c.png)
 
 
